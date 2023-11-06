@@ -2,7 +2,7 @@ owner: LeastAuthority
 repo: org-members-upptime
 
 sites:
-  - name: 1Password - LA
+  - name: 1Password
     url: https://my.1password.com/signin
   - name: GitHub - LA
     url: https://github.com/LeastAuthority/

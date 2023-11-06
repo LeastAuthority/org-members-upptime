@@ -1,29 +1,63 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: LeastAuthority
+repo: org-members-upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: 1Password - LA
+    url: https://my.1password.com/signin
+  - name: GitHub - LA
+    url: https://github.com/LeastAuthority/
+  - name: GitHub - PS
+    url: https://github.com/PrivateStorageio/
+  - name: GitLab - PS
+    url: https://whetstone.private.storage/
+  - name: Google Workspace
+    url: https://workspace.google.com/dashboard
+  - name: LimeSurvey - LA
+    icon: https://raw.githubusercontent.com/LeastAuthority/org-members-upptime/master/assets/limesurvey.ico
+    url: $URL_LIMESURVEY_LA
+    expectedStatusCodes:
+      - 200
+  - name: Open Project - LA
+    url: https://leastauthority.openproject.com/
+  - name: Overleaf - LA
+    url: https://www.overleaf.com/project/6058b9d527814c9a91678a8a
+    expectedStatusCodes:
+      - 403
+  - name: Matomo - PS
+    icon: https://raw.githubusercontent.com/LeastAuthority/org-members-upptime/master/assets/matomo-icon.png
+    url: $URL_MATOMO_PS
+    expectedStatusCodes:
+      - 200
+  - name: Remote
+    url: https://remote.com/
+  - name: Slack - LA
+    url: https://leastauthority.slack.com/
+  - name: SuiteCRM - LA
+    icon: https://raw.githubusercontent.com/LeastAuthority/org-members-upptime/master/assets/suitecrm.ico
+    url: $URL_SUITECRM_LA
+    expectedStatusCodes:
+      - 200
+  - name: Whereby - LA
+    url: https://la.whereby.com/
+  - name: WP Engine
+    url: https://my.wpengine.com/
+  - name: WordPress - LA
+    url: https://leastauthority.com/wp-login.php
+    expectedStatusCodes:
+      - 200
+  - name: Zulip - PS
+    icon: https://raw.githubusercontent.com/LeastAuthority/org-members-upptime/master/assets/zulip-icon.svg
+    url: $URL_ZULIP_PS
+    expectedStatusCodes:
+      - 200
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  baseUrl: /org-members-upptime
+  logoUrl: https://raw.githubusercontent.com/LeastAuthority/org-members-upptime/master/assets/upptime-icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This site monitor resources available to members of Least Authority
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 

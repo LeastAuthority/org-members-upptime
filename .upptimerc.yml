@@ -64,8 +64,6 @@ status-website:
       href: /infrastructure-upptime
     - title: Least Authority
       href: https://www.leastauthority.com/
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

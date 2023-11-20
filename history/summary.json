@@ -58,18 +58,20 @@
     "url": "https://whetstone.private.storage/",
     "icon": "https://icons.duckduckgo.com/ip3/whetstone.private.storage.ico",
     "slug": "git-lab-ps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 791,
-    "timeDay": 1038,
-    "timeWeek": 725,
-    "timeMonth": 791,
-    "timeYear": 791,
-    "dailyMinutesDown": {}
+    "time": 776,
+    "timeDay": 761,
+    "timeWeek": 695,
+    "timeMonth": 776,
+    "timeYear": 776,
+    "dailyMinutesDown": {
+      "2023-11-20": 0
+    }
   },
   {
     "name": "Google Workspace",

@@ -204,19 +204,19 @@
     "url": "$URL_SUITECRM_LA",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/org-members-upptime/master/assets/suitecrm.ico",
     "slug": "suite-crm-la",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 843,
-    "timeDay": 714,
-    "timeWeek": 865,
-    "timeMonth": 843,
-    "timeYear": 843,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 842,
+    "timeDay": 754,
+    "timeWeek": 862,
+    "timeMonth": 842,
+    "timeYear": 842,
     "dailyMinutesDown": {
-      "2023-11-24": 0
+      "2023-11-24": 9
     }
   },
   {

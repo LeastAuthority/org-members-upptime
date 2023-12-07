@@ -78,18 +78,20 @@
     "url": "https://workspace.google.com/dashboard",
     "icon": "https://icons.duckduckgo.com/ip3/workspace.google.com.ico",
     "slug": "google-workspace",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 416,
-    "timeDay": 295,
-    "timeWeek": 449,
-    "timeMonth": 417,
-    "timeYear": 416,
-    "dailyMinutesDown": {}
+    "time": 646,
+    "timeDay": 4742,
+    "timeWeek": 1541,
+    "timeMonth": 700,
+    "timeYear": 646,
+    "dailyMinutesDown": {
+      "2023-12-07": 0
+    }
   },
   {
     "name": "LimeSurvey - LA",

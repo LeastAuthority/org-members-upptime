@@ -116,18 +116,20 @@
     "url": "https://leastauthority.openproject.com/",
     "icon": "https://icons.duckduckgo.com/ip3/leastauthority.openproject.com.ico",
     "slug": "open-project-la",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 700,
-    "timeDay": 747,
-    "timeWeek": 703,
-    "timeMonth": 703,
-    "timeYear": 700,
-    "dailyMinutesDown": {}
+    "time": 693,
+    "timeDay": 544,
+    "timeWeek": 658,
+    "timeMonth": 692,
+    "timeYear": 693,
+    "dailyMinutesDown": {
+      "2023-12-17": 0
+    }
   },
   {
     "name": "Overleaf - LA",

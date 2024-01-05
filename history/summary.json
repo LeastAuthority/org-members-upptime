@@ -286,9 +286,9 @@
     "url": "$URL_ZULIP_PS",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/org-members-upptime/master/assets/zulip-icon.svg",
     "slug": "zulip-ps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -297,6 +297,8 @@
     "timeWeek": 823,
     "timeMonth": 823,
     "timeYear": 853,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 0
+    }
   }
 ]

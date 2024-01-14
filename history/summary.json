@@ -42,18 +42,20 @@
     "url": "https://github.com/PrivateStorageio/",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub-ps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 402,
-    "timeDay": 378,
-    "timeWeek": 375,
-    "timeMonth": 389,
-    "timeYear": 402,
-    "dailyMinutesDown": {}
+    "time": 542,
+    "timeDay": 5701,
+    "timeWeek": 1706,
+    "timeMonth": 721,
+    "timeYear": 542,
+    "dailyMinutesDown": {
+      "2024-01-14": 0
+    }
   },
   {
     "name": "GitLab - PS",

@@ -42,19 +42,19 @@
     "url": "https://github.com/PrivateStorageio/",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub-ps",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 542,
-    "timeDay": 5701,
-    "timeWeek": 1706,
-    "timeMonth": 721,
-    "timeYear": 542,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 539,
+    "timeDay": 3904,
+    "timeWeek": 1551,
+    "timeMonth": 709,
+    "timeYear": 539,
     "dailyMinutesDown": {
-      "2024-01-14": 0
+      "2024-01-14": 24
     }
   },
   {

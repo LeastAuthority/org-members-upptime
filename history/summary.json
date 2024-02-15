@@ -121,18 +121,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/leastauthority.openproject.com.ico",
     "slug": "open-project-la",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.88%",
+    "uptimeDay": "95.01%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.88%",
     "time": 731,
     "timeDay": 523,
     "timeWeek": 590,
     "timeMonth": 718,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2024-02-14": 11,
+      "2024-02-15": 5,
+      "2024-02-14": 66,
       "2024-01-17": 11,
       "2023-12-17": 98
     }
@@ -169,7 +170,7 @@
     "time": 1187,
     "timeDay": 691,
     "timeWeek": 1050,
-    "timeMonth": 1157,
+    "timeMonth": 1163,
     "timeYear": 1187,
     "dailyMinutesDown": {}
   },
@@ -293,7 +294,7 @@
     "time": 612,
     "timeDay": 463,
     "timeWeek": 519,
-    "timeMonth": 608,
+    "timeMonth": 610,
     "timeYear": 612,
     "dailyMinutesDown": {}
   },
@@ -311,7 +312,7 @@
     "time": 827,
     "timeDay": 562,
     "timeWeek": 635,
-    "timeMonth": 763,
+    "timeMonth": 766,
     "timeYear": 827,
     "dailyMinutesDown": {
       "2024-01-05": 46

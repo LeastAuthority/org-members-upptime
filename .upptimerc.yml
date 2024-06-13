@@ -25,7 +25,7 @@ sites:
       - 403
   - name: Matomo - PS
     icon: https://raw.githubusercontent.com/LeastAuthority/org-members-upptime/master/assets/matomo-icon.png
-    url: $URL_MATOMO_PS
+    url: https://matomo.private.storage/
     expectedStatusCodes:
       - 200
   - name: Remote

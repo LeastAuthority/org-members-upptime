@@ -60,7 +60,7 @@
     "timeMonth": 326,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2024-06-26": 655,
+      "2024-06-26": 666,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
@@ -196,19 +196,19 @@
     "url": "$URL_LIMESURVEY_LA",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/org-members-upptime/master/assets/limesurvey.ico",
     "slug": "lime-survey-la",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 763,
-    "timeDay": 630,
-    "timeWeek": 831,
-    "timeMonth": 766,
-    "timeYear": 763,
+    "time": 764,
+    "timeDay": 735,
+    "timeWeek": 844,
+    "timeMonth": 772,
+    "timeYear": 764,
     "dailyMinutesDown": {
-      "2024-06-26": 0
+      "2024-06-26": 10
     }
   },
   {
@@ -228,7 +228,7 @@
     "timeMonth": 515,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2024-06-26": 655,
+      "2024-06-26": 666,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
@@ -394,7 +394,7 @@
     "status": "up",
     "uptime": "97.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.89%",
+    "uptimeWeek": "96.99%",
     "uptimeMonth": "84.45%",
     "uptimeYear": "97.89%",
     "time": 1227,

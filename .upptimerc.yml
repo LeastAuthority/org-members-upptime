@@ -17,8 +17,6 @@ sites:
     url: $URL_LIMESURVEY_LA
     expectedStatusCodes:
       - 200
-  - name: Open Project - LA
-    url: https://leastauthority.openproject.com/
   - name: Overleaf - LA
     url: https://www.overleaf.com/project/6058b9d527814c9a91678a8a
     expectedStatusCodes:
@@ -30,6 +28,8 @@ sites:
       - 200
   - name: Remote
     url: https://remote.com/
+  - name: Roundcube webmail - LA
+    url: https://mail.latfa.net/
   - name: Slack - LA
     url: https://leastauthority.slack.com/
   - name: SuiteCRM - LA

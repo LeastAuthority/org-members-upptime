@@ -4,6 +4,8 @@ repo: org-members-upptime
 sites:
   - name: 1Password
     url: https://my.1password.com/signin
+  - name: Deel
+    url: https://app.deel.com/
   - name: GitHub - LA
     url: https://github.com/LeastAuthority/
   - name: GitHub - PS
@@ -26,8 +28,6 @@ sites:
     url: https://matomo.private.storage/
     expectedStatusCodes:
       - 200
-  - name: Remote
-    url: https://remote.com/
   - name: Roundcube webmail - LA
     url: https://mail.latfa.net/
   - name: Slack - LA

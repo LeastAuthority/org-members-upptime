@@ -69,7 +69,7 @@
     "uptime": "65.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "65.26%",
+    "uptimeMonth": "65.29%",
     "uptimeYear": "65.42%",
     "time": 397,
     "timeDay": 308,
@@ -400,19 +400,19 @@
     "url": "https://leastauthority.com/wp-login.php",
     "icon": "https://icons.duckduckgo.com/ip3/leastauthority.com.ico",
     "slug": "word-press-la",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 583,
-    "timeDay": 650,
-    "timeWeek": 702,
-    "timeMonth": 689,
+    "timeDay": 639,
+    "timeWeek": 694,
+    "timeMonth": 687,
     "timeYear": 583,
     "dailyMinutesDown": {
-      "2024-07-23": 0
+      "2024-07-23": 11
     }
   },
   {

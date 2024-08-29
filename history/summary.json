@@ -286,19 +286,19 @@
     "url": "https://mail.latfa.net/",
     "icon": "https://icons.duckduckgo.com/ip3/mail.latfa.net.ico",
     "slug": "roundcube-webmail-la",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 619,
-    "timeDay": 545,
-    "timeWeek": 618,
-    "timeMonth": 642,
-    "timeYear": 619,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.96%",
+    "time": 623,
+    "timeDay": 711,
+    "timeWeek": 650,
+    "timeMonth": 649,
+    "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-08-29": 0
+      "2024-08-29": 34
     }
   },
   {

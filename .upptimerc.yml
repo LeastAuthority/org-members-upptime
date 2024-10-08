@@ -37,8 +37,6 @@ sites:
     url: $URL_SUITECRM_LA
     expectedStatusCodes:
       - 200
-  - name: Whereby - LA
-    url: https://la.whereby.com/
   - name: WP Engine
     url: https://my.wpengine.com/
   - name: WordPress - LA

@@ -4,6 +4,8 @@ repo: org-members-upptime
 sites:
   - name: 1Password
     url: https://my.1password.com/signin
+  - name: CDR Link - PS and HRO
+    url: https://leastauthority.cdr.link/
   - name: Deel
     url: https://app.deel.com/
   - name: GitHub - LA

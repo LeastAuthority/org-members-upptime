@@ -6,6 +6,8 @@ sites:
     url: https://my.1password.com/signin
   - name: CDR Link - PS and HRO
     url: https://leastauthority.cdr.link/
+  - name: Docs
+    url: https://docs.latfa.net/
   - name: Deel
     url: https://app.deel.com/
   - name: GitHub - LA

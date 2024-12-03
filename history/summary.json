@@ -40,19 +40,19 @@
     "url": "https://docs.latfa.net/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.latfa.net.ico",
     "slug": "docs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1014,
-    "timeDay": 773,
-    "timeWeek": 1014,
-    "timeMonth": 1014,
-    "timeYear": 1014,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 1041,
+    "timeDay": 1002,
+    "timeWeek": 1041,
+    "timeMonth": 1041,
+    "timeYear": 1041,
     "dailyMinutesDown": {
-      "2024-12-03": 0
+      "2024-12-03": 16
     }
   },
   {

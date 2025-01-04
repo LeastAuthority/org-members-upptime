@@ -342,9 +342,9 @@
     "url": "https://leastauthority.slack.com/",
     "icon": "https://icons.duckduckgo.com/ip3/leastauthority.slack.com.ico",
     "slug": "slack-la",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -353,7 +353,9 @@
     "timeWeek": 239,
     "timeMonth": 280,
     "timeYear": 228,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-04": 0
+    }
   },
   {
     "name": "SuiteCRM - LA",

@@ -257,18 +257,16 @@
     "slug": "lime-survey-la",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 814,
     "timeDay": 1050,
     "timeWeek": 917,
     "timeMonth": 885,
     "timeYear": 828,
-    "dailyMinutesDown": {
-      "2025-01-28": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Overleaf - LA",

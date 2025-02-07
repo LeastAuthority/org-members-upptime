@@ -256,19 +256,19 @@
     "url": "$URL_LIMESURVEY_LA",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/org-members-upptime/master/assets/limesurvey.ico",
     "slug": "lime-survey-la",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 814,
-    "timeDay": 573,
-    "timeWeek": 812,
-    "timeMonth": 854,
+    "timeDay": 636,
+    "timeWeek": 807,
+    "timeMonth": 851,
     "timeYear": 829,
     "dailyMinutesDown": {
-      "2025-02-07": 0
+      "2025-02-07": 12
     }
   },
   {

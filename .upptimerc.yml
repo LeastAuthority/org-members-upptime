@@ -67,5 +67,8 @@ status-website:
     - title: Infrastructure
       href: /infrastructure-upptime
 
+# Do not delete issues, just close them, so we can investigate intermittent problems
+skipDeleteIssues: true
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

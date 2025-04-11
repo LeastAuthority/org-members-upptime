@@ -431,19 +431,19 @@
     "url": "$URL_ZULIP_PS",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/org-members-upptime/master/assets/zulip-icon.svg",
     "slug": "zulip-ps",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 846,
-    "timeDay": 801,
-    "timeWeek": 876,
-    "timeMonth": 861,
+    "timeDay": 794,
+    "timeWeek": 865,
+    "timeMonth": 859,
     "timeYear": 853,
     "dailyMinutesDown": {
-      "2025-04-11": 1
+      "2025-04-11": 9
     }
   }
 ]

@@ -1,7 +1,7 @@
 url: https://matomo.private.storage/
-status: up
-code: 200
-responseTime: 1863
-lastUpdated: 2025-06-12T23:06:20.700Z
+status: down
+code: 502
+responseTime: 445
+lastUpdated: 2025-06-13T15:11:30.370Z
 startTime: 2023-11-06T09:13:39.528Z
 generator: Upptime <https://github.com/upptime/upptime>

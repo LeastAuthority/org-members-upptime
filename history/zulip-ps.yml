@@ -1,7 +1,7 @@
 url: $URL_ZULIP_PS
-status: up
-code: 200
-responseTime: 796
-lastUpdated: 2025-06-15T23:05:37.829Z
+status: down
+code: 502
+responseTime: 1018
+lastUpdated: 2025-06-16T02:36:49.804Z
 startTime: 2023-11-06T09:13:49.174Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://leastauthority.com/wp-login.php
-status: up
-code: 200
-responseTime: 651
-lastUpdated: 2025-07-21T23:22:56.886Z
+status: down
+code: 500
+responseTime: 646
+lastUpdated: 2025-07-22T21:42:46.873Z
 startTime: 2023-11-06T09:13:47.648Z
 generator: Upptime <https://github.com/upptime/upptime>

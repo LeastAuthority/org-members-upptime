@@ -36,6 +36,10 @@ sites:
     url: https://mail.latfa.net/
   - name: Slack - LA
     url: https://leastauthority.slack.com/
+  - name: SnipeIT - LA
+    url: $URL_SNIPEIT_LA
+    expectedStatusCodes:
+      - 200
   - name: SuiteCRM - LA
     icon: https://raw.githubusercontent.com/LeastAuthority/org-members-upptime/master/assets/suitecrm.ico
     url: $URL_SUITECRM_LA

@@ -105,7 +105,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub-ps",
     "status": "up",
-    "uptime": "88.03%",
+    "uptime": "88.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -166,10 +166,10 @@
     "url": "$URL_LIMESURVEY_LA",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/org-members-upptime/master/assets/limesurvey.ico",
     "slug": "lime-survey-la",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 860,
@@ -178,6 +178,7 @@
     "timeMonth": 845,
     "timeYear": 857,
     "dailyMinutesDown": {
+      "2025-11-28": 1,
       "2025-03-03": 14
     }
   },

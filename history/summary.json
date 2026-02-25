@@ -103,7 +103,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub-ps",
     "status": "up",
-    "uptime": "89.30%",
+    "uptime": "89.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -162,10 +162,10 @@
     "url": "$URL_LIMESURVEY_LA",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/org-members-upptime/master/assets/limesurvey.ico",
     "slug": "lime-survey-la",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 863,
@@ -174,6 +174,7 @@
     "timeMonth": 855,
     "timeYear": 857,
     "dailyMinutesDown": {
+      "2026-02-25": 2,
       "2025-11-28": 8,
       "2025-03-03": 14
     }
@@ -231,10 +232,10 @@
     "url": "https://mail.latfa.net/",
     "icon": "https://icons.duckduckgo.com/ip3/mail.latfa.net.ico",
     "slug": "roundcube-webmail-la",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 708,
@@ -243,6 +244,7 @@
     "timeMonth": 610,
     "timeYear": 719,
     "dailyMinutesDown": {
+      "2026-02-25": 2,
       "2025-04-15": 17
     }
   },
@@ -269,10 +271,10 @@
     "url": "$URL_SNIPEIT_LA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "snipe-it-la",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1564,
@@ -280,17 +282,19 @@
     "timeWeek": 1477,
     "timeMonth": 1464,
     "timeYear": 1564,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-25": 1
+    }
   },
   {
     "name": "SuiteCRM - LA",
     "url": "$URL_SUITECRM_LA",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/org-members-upptime/master/assets/suitecrm.ico",
     "slug": "suite-crm-la",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 987,
@@ -299,6 +303,7 @@
     "timeMonth": 951,
     "timeYear": 993,
     "dailyMinutesDown": {
+      "2026-02-25": 1,
       "2025-07-02": 39,
       "2025-06-27": 39
     }

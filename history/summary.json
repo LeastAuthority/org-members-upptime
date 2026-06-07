@@ -119,9 +119,9 @@
     "slug": "git-lab-ps",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 881,
     "timeDay": 971,
@@ -134,7 +134,7 @@
       "2026-04-06": 18,
       "2026-06-03": 19,
       "2026-06-02": 9,
-      "2026-06-07": 10
+      "2026-06-07": 22
     }
   },
   {
@@ -203,9 +203,9 @@
     "slug": "matomo-ps",
     "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
     "time": 2209,
     "timeDay": 2512,
@@ -222,7 +222,7 @@
       "2026-02-28": 9,
       "2026-06-03": 19,
       "2026-06-02": 4,
-      "2026-06-07": 5
+      "2026-06-07": 17
     }
   },
   {
@@ -252,10 +252,10 @@
     "slug": "slack-la",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 270,
     "timeDay": 245,
     "timeWeek": 265,
@@ -263,7 +263,7 @@
     "timeYear": 281,
     "dailyMinutesDown": {
       "2026-06-03": 18,
-      "2026-06-07": 1
+      "2026-06-07": 13
     }
   },
   {

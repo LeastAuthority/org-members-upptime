@@ -1,7 +1,7 @@
 url: https://whetstone.private.storage/
-status: up
-code: 200
-responseTime: 2380
-lastUpdated: 2026-06-12T23:34:57.172Z
+status: down
+code: 502
+responseTime: 555
+lastUpdated: 2026-06-13T09:15:27.067Z
 startTime: 2023-11-06T09:13:31.451Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -254,16 +254,16 @@
     "url": "https://leastauthority.slack.com/",
     "icon": "https://icons.duckduckgo.com/ip3/leastauthority.slack.com.ico",
     "slug": "slack-la",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "95.65%",
-    "uptimeWeek": "96.83%",
-    "uptimeMonth": "99.27%",
+    "uptimeDay": "94.88%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "99.24%",
     "uptimeYear": "99.92%",
     "time": 280,
-    "timeDay": 336,
-    "timeWeek": 335,
-    "timeMonth": 347,
+    "timeDay": 333,
+    "timeWeek": 334,
+    "timeMonth": 346,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2026-06-03": 18,
@@ -271,7 +271,7 @@
       "2026-08-13": 45,
       "2026-08-14": 123,
       "2026-08-15": 98,
-      "2026-08-16": 54
+      "2026-08-16": 65
     }
   },
   {

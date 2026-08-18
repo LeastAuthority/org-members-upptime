@@ -253,7 +253,7 @@
     "url": "https://leastauthority.slack.com/",
     "icon": "https://icons.duckduckgo.com/ip3/leastauthority.slack.com.ico",
     "slug": "slack-la",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "96.34%",
     "uptimeWeek": "96.20%",

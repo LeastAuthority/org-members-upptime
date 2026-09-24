@@ -97,7 +97,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub-ps",
     "status": "up",
-    "uptime": "91.44%",
+    "uptime": "91.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -114,17 +114,17 @@
     "url": "https://whetstone.private.storage/",
     "icon": "https://icons.duckduckgo.com/ip3/whetstone.private.storage.ico",
     "slug": "git-lab-ps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
     "time": 1064,
-    "timeDay": 1046,
-    "timeWeek": 1304,
-    "timeMonth": 1295,
-    "timeYear": 1134,
+    "timeDay": 854,
+    "timeWeek": 1224,
+    "timeMonth": 1275,
+    "timeYear": 1133,
     "dailyMinutesDown": {
       "2026-04-06": 18,
       "2026-06-03": 19,
@@ -138,7 +138,8 @@
       "2026-06-15": 345,
       "2026-06-17": 494,
       "2026-06-18": 246,
-      "2026-06-19": 225
+      "2026-06-19": 225,
+      "2026-09-24": 1
     }
   },
   {

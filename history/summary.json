@@ -114,15 +114,15 @@
     "url": "https://whetstone.private.storage/",
     "icon": "https://icons.duckduckgo.com/ip3/whetstone.private.storage.ico",
     "slug": "git-lab-ps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "60.08%",
-    "uptimeWeek": "93.68%",
+    "uptimeDay": "60.03%",
+    "uptimeWeek": "93.82%",
     "uptimeMonth": "98.52%",
     "uptimeYear": "99.15%",
     "time": 1075,
     "timeDay": 778,
-    "timeWeek": 1151,
+    "timeWeek": 1221,
     "timeMonth": 1198,
     "timeYear": 1142,
     "dailyMinutesDown": {
@@ -142,7 +142,7 @@
       "2026-09-24": 10,
       "2026-09-25": 14,
       "2026-09-30": 48,
-      "2026-10-02": 151,
+      "2026-10-02": 152,
       "2026-10-01": 424
     }
   },

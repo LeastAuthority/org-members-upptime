@@ -26,7 +26,7 @@
     "uptime": "97.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.19%",
+    "uptimeMonth": "43.14%",
     "uptimeYear": "95.26%",
     "time": 524,
     "timeDay": 0,
@@ -35,7 +35,7 @@
     "timeYear": 553,
     "dailyMinutesDown": {
       "2026-01-28": 15,
-      "2026-10-23": 156,
+      "2026-10-23": 176,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
@@ -392,16 +392,16 @@
     "url": "$URL_ZULIP_PS",
     "icon": "https://raw.githubusercontent.com/LeastAuthority/org-members-upptime/master/assets/zulip-icon.svg",
     "slug": "zulip-ps",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.95%",
-    "time": 820,
-    "timeDay": 578,
-    "timeWeek": 682,
-    "timeMonth": 702,
+    "time": 819,
+    "timeDay": 645,
+    "timeWeek": 693,
+    "timeMonth": 704,
     "timeYear": 766,
     "dailyMinutesDown": {
       "2025-11-26": 11,
@@ -411,7 +411,7 @@
       "2026-08-24": 23,
       "2026-09-12": 12,
       "2026-10-07": 13,
-      "2026-10-23": 1
+      "2026-10-23": 20
     }
   }
 ]

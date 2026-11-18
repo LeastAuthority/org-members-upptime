@@ -14,7 +14,7 @@
     "timeDay": 62,
     "timeWeek": 214,
     "timeMonth": 209,
-    "timeYear": 231,
+    "timeYear": 221,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "https://leastauthority.link.sr2.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/leastauthority.link.sr2.uk.ico",
     "slug": "cdr-link-ps-and-hro",
-    "status": "down",
-    "uptime": "96.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "status": "up",
+    "uptime": "96.97%",
+    "uptimeDay": "90.88%",
+    "uptimeWeek": "98.70%",
     "uptimeMonth": "66.78%",
-    "uptimeYear": "93.71%",
+    "uptimeYear": "93.68%",
     "time": 528,
-    "timeDay": 319,
-    "timeWeek": 478,
-    "timeMonth": 531,
-    "timeYear": 561,
+    "timeDay": 386,
+    "timeWeek": 475,
+    "timeMonth": 528,
+    "timeYear": 560,
     "dailyMinutesDown": {
       "2026-01-28": 15,
       "2026-10-28": 1138,
@@ -59,7 +59,7 @@
       "2026-10-07": 1440,
       "2026-10-06": 1440,
       "2026-10-05": 251,
-      "2026-11-18": 1
+      "2026-11-18": 131
     }
   },
   {
